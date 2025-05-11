@@ -1,4 +1,4 @@
-# ✈️ Dataset Used: Landing Approach Runway Detection (LARD)
+# ✈ Dataset Used: Landing Approach Runway Detection (LARD)
 
 This folder contains the dataset used in **Phase 1** of the EVA_LAND project.
 
